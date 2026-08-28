@@ -1,11 +1,11 @@
 // ==WindhawkMod==
-// @id              snap-border-fix
-// @name            Snap Border Fix
-// @description     Changes window borders to a custom color, mainly because of the white borders forced by the Windows 11 snapping feature. Credits to Bo0ii for the Source Code.
-// @version         1.0.0
+// @id              begone-ugly-snap-borders
+// @name            Begone, Ugly Snap Borders!
+// @description     Removes the ugly borders forced by Windows 11 snapping. Credits to Bo0ii for the Source Code.
+// @version         1.1.0
 // @author          M4D_MAXX_
 // @github          https://github.com/M4DMAXX
-// @homepage        https://github.com/M4DMAXX/windhawk-mods
+// @homepage        https://github.com/M4DMAXX/my-windhawk-mods
 // @include         *
 // @exclude         devenv.exe
 // @compilerOptions -ldwmapi -luser32
@@ -14,13 +14,13 @@
 
 // ==WindhawkModReadme==
 /*
-# Snap Border Fix
+# Begone, Ugly Snap Borders!
 
-Change the window borders to a custom color, to get rid of the white borders when using the Windows snapping feature. No other mod I found addressed this issue in the way I needed.
+Change the window borders to a custom color, to get rid of the ugly white borders when using the Windows snapping feature. No other mod I found addressed this issue in the way I needed.
 
 ## Features
 
-- **Custom Border Color and No More White Snap Borders**: Replaces the white borders shown by Windows when using the snapping feature, by a custom color. Default Color: Dark Anthracite
+- **Custom Border Color and No More White Snap Borders**: Replaces the ugly white borders shown by Windows when using the snapping feature, by a custom color. Default Color: Dark Anthracite
 - **Universal**: Designed to work with all applications
 - **Lightweight**: Minimal performance impact
 
